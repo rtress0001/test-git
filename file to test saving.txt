@@ -1,0 +1,3 @@
+python
+nice=1
+print(nice)
